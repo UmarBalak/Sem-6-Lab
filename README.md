@@ -1,1 +1,2 @@
-# Sem-6-Lab
+# Lab Material
+## Semester 6
